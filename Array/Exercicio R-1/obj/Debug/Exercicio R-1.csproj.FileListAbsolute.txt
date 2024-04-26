@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\bin\Debug\Exercicio R-1.exe.config
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\bin\Debug\Exercicio R-1.exe
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\bin\Debug\Exercicio R-1.pdb
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\obj\Debug\Exercicio R-1.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\obj\Debug\Exercicio R-1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\obj\Debug\Exercicio R-1.exe
+C:\Users\Gabriel Araujo\source\repos\Array\Exercicio R-1\obj\Debug\Exercicio R-1.pdb
