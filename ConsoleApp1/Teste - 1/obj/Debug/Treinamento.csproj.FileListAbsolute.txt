@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\bin\Debug\Teste - 1.exe.config
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\bin\Debug\Teste - 1.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\bin\Debug\Teste - 1.pdb
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\obj\Debug\Treinamento.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\obj\Debug\Treinamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\obj\Debug\Teste - 1.exe
+C:\Users\Gabriel Araujo\source\repos\ConsoleApp1\Teste - 1\obj\Debug\Teste - 1.pdb
